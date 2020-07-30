@@ -1,0 +1,10 @@
+<!-- Bootstrap -->
+
+<div class="card-columns puntero" routerLinkActive="active">
+    <div *ngFor="let empre of empresas" class="card" routerLink="/facturas">
+        <img src="assets/img/emp-{{empre.id}}.jpg" class="card-img-top" alt="Empresa{{empre.id}}" routerLink="/facturas">>
+        <div class="card-body">
+            <h5 class="card-title" routerLink="/facturas">{{empre.nombre}}</h5>
+        </div>
+    </div>
+</div>

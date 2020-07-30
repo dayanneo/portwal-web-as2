@@ -1,0 +1,29 @@
+<!-- <h3 class="first">Inicio de Sesión</h3> -->
+<mat-card class="card-panel teal #eceff1 blue-grey lighten-5"> Inicio de Sesión</mat-card>
+<!-- Con PrimeNG -->
+
+<div class="row">
+    <div class="col">
+        <div class="p-grid ui-fluid">
+            <div class="p-col-12 p-md-4">
+                <div class=" mdl-textfield mdl-js-textfield mdl-textfield--floating-label ui-inputgroup ">
+                    <input class="mdl-textfield__input" type="text" pInputText placeholder="RUC" id="username">
+                    <label class="mdl-textfield__label" for="username"></label>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col ui-inputgroup mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                        <input class="mdl-textfield__input" id="password" pPassword type="password" placeholder="Password">
+                        <label class="mdl-textfield__label" for="password"></label>
+                    </div>
+                </div>
+                <div class="example-button-row" routerLinkActive="active ">
+                    <button mat-raised-button color="primary" type="submit" class=" btn btn-primary " routerLink="/empresas"> Sign in
+                        <!--  <input type="submit " value="Sign in "> -->
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

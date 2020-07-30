@@ -3,8 +3,7 @@
     "data": [
          {"tipo": "Factura", "numero": "001-011-014918314", "fecha": "15/06/2020","total":"34.16","estado":"Pagada "},
          {"tipo": "Factura", "numero": "001-011-014918315", "fecha": "15/07/2020","total":"34.16","estado":"Pagada "},
-         {"tipo": "Factura", "numero": "001-011-014918313", "fecha": "15/05/2020","total":"34.16","estado":"Pagada "} 
-
+         {"tipo": "Factura", "numero": "001-011-014918313", "fecha": "15/05/2020","total":"34.16","estado":"Pagada "}  
             
     ]
 }
