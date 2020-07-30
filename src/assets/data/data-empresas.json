@@ -1,0 +1,61 @@
+[{
+        "id": 0,
+        "nombre": "Santa Maria",
+        "url": "assets/imf/emp-0.jpg"
+
+    },
+    {
+        "id": 1,
+        "nombre": "Ecuasanitas",
+        "url": "assets/imf/emp-1.jpg"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Empresa 3",
+        "url": "assets/imf/emp-2.jpg"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Empresa 4",
+        "url": "assets/imf/emp-3.jpg"
+
+    },
+    {
+        "id": 4,
+        "nombre": "Decoraciones",
+        "url": "assets/imf/emp-4.jpg"
+
+    },
+    {
+        "id": 5,
+        "nombre": "Studio Music",
+        "url": "assets/imf/emp-5.jpg"
+
+    },
+    {
+        "id": 6,
+        "nombre": "Hospital AAA",
+        "url": "assets/imf/emp-6.jpg"
+
+    },
+    {
+        "id": 7,
+        "nombre": "Coca-Cola",
+        "url": "assets/imf/emp-7.jpg"
+
+    },
+    {
+        "id": 8,
+        "nombre": "Pepsi",
+        "url": "assets/imf/emp-8.jpg"
+
+    },
+    {
+        "id": 9,
+        "nombre": "Fanta",
+        "url": "assets/imf/emp-9.jpg"
+
+    }
+]
